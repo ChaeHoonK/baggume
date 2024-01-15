@@ -1,0 +1,1 @@
+utils are generally: URL utils, Number utils, formatter utils, date utils, all of which don't have a clear scope and are in essence very generic that can be used in all sorts of scopes to help in a very specific task.
